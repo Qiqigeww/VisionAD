@@ -1,0 +1,151 @@
+-------------------------------------------------------------------------------------------------------------------------------------
+# 以下变换后的检测；brightness=0.9, contrast=0.9, saturation=0.9
+augmented_image = TF.adjust_brightness(tensor_image, brightness)
+augmented_image = TF.adjust_contrast(augmented_image, contrast)
+augmented_image = TF.adjust_saturation(augmented_image, saturation)
+anomaly_map = 0.7 * anomaly_map_ori + 0.3 * anomaly_map_aug
+3次旋转
+vit_small
+
+cuda:4
+shots: 1
+gmacs: 14.2 GMACs, params: 18.0 M, Speed: 87.2 FPS
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+# 以下变换后的检测；brightness=0.9, contrast=0.9, saturation=0.9
+augmented_image = TF.adjust_brightness(tensor_image, brightness)
+augmented_image = TF.adjust_contrast(augmented_image, contrast)
+augmented_image = TF.adjust_saturation(augmented_image, saturation)
+anomaly_map = 0.7 * anomaly_map_ori + 0.3 * anomaly_map_aug
+3次旋转
+vit_base
+
+cuda:4
+shots: 1
+gmacs: 56.2 GMACs, params: 71.3 M, Speed: 39.6 FPS
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+# 以下变换后的检测；brightness=0.9, contrast=0.9, saturation=0.9
+augmented_image = TF.adjust_brightness(tensor_image, brightness)
+augmented_image = TF.adjust_contrast(augmented_image, contrast)
+augmented_image = TF.adjust_saturation(augmented_image, saturation)
+anomaly_map = 0.7 * anomaly_map_ori + 0.3 * anomaly_map_aug
+3次旋转
+vit_large
+
+cuda:4
+shots: 1
+gmacs: 99.8 GMACs, params: 126.6 M, Speed: 27.0 FPS
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+# 以下变换后的检测；brightness=0.9, contrast=0.9, saturation=0.9
+augmented_image = TF.adjust_brightness(tensor_image, brightness)
+augmented_image = TF.adjust_contrast(augmented_image, contrast)
+augmented_image = TF.adjust_saturation(augmented_image, saturation)
+anomaly_map = 0.7 * anomaly_map_ori + 0.3 * anomaly_map_aug
+3次旋转
+vit_base
+image_size = 512
+crop_size = 448
+
+cuda:4
+shots: 1
+gmacs: 73.4 GMACs, params: 71.3 M, Speed: 23.0 FPS
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+# 以下变换后的检测；brightness=0.9, contrast=0.9, saturation=0.9
+augmented_image = TF.adjust_brightness(tensor_image, brightness)
+augmented_image = TF.adjust_contrast(augmented_image, contrast)
+augmented_image = TF.adjust_saturation(augmented_image, saturation)
+anomaly_map = 0.7 * anomaly_map_ori + 0.3 * anomaly_map_aug
+3次旋转
+vit_base
+image_size = 384
+crop_size = 336
+
+cuda:4
+shots: 1
+gmacs: 41.4 GMACs, params: 71.3 M, Speed: 36.4 FPS
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+# 以下变换后的检测；brightness=0.9, contrast=0.9, saturation=0.9
+augmented_image = TF.adjust_brightness(tensor_image, brightness)
+augmented_image = TF.adjust_contrast(augmented_image, contrast)
+augmented_image = TF.adjust_saturation(augmented_image, saturation)
+anomaly_map = 0.7 * anomaly_map_ori + 0.3 * anomaly_map_aug
+3次旋转
+vit_base
+image_size = 320
+crop_size = 280
+
+cuda:4
+shots: 1
+gmacs: 28.9 GMACs, params: 71.3 M, Speed: 44.7 FPS
+cuda:4
+shots: 1
+cuda:4
+shots: 1
+gmacs: 43.3 GMACs, params: 71.3 M, Speed: 49.4 FPS
+cuda:4
+shots: 1
+gmacs: 10.9 GMACs, params: 18.0 M, Speed: 110.2 FPS
+cuda:4
+shots: 1
+gmacs: 145.7 GMACs, params: 239.9 M, Speed: 20.0 FPS
+cuda:4
+shots: 1
+gmacs: 145.7 GMACs, params: 239.9 M, Speed: 19.9 FPS
+cuda:4
+shots: 1
+gmacs: 283.8 GMACs, params: 239.9 M, Speed: 10.3 FPS
+cuda:4
+shots: 1
+gmacs: 84.4 GMACs, params: 71.3 M, Speed: 26.0 FPS
+cuda:4
+shots: 1
+gmacs: 21.2 GMACs, params: 18.0 M, Speed: 55.8 FPS
+cuda:4
+shots: 1
+gmacs: 43.3 GMACs, params: 71.3 M, Speed: 49.9 FPS
+cuda:4
+shots: 1
+gmacs: 62.1 GMACs, params: 71.3 M, Speed: 36.1 FPS
+cuda:4
+shots: 1
+gmacs: 41.4G GMACs, params: 71.3M M, Speed: 34.882431735470696 FPS
+cuda:4
+shots: 1
+gmacs: 14.2G MACs, params: 18.0M , Speed: 52.0 FPS
+cuda:4
+shots: 1
+gmacs: 189.2G MACs, params: 239.9M , Speed: 10.1 FPS
+cuda:4
+shots: 1
+gmacs: 56.2G MACs, params: 71.3M , Speed: 26.6 FPS
+cuda:4
+shots: 1
+gmacs: 28.9G MACs, params: 71.3M , Speed: 50.4 FPS
+cuda:4
+shots: 1
+gmacs: 41.4G MACs, params: 71.3M , Speed: 37.2 FPS
+cuda:4
+shots: 1
+gmacs: 73.4G MACs, params: 71.3M , Speed: 19.3 FPS
+cuda:4
+shots: 1
+gmacs: 18.6G MACs, params: 71.3M , Speed: 75.7 FPS
+cuda:4
+shots: 2
+gmacs: 18.6G MACs, params: 71.3M , Speed: 75.2 FPS

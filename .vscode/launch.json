@@ -1,0 +1,92 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+    
+        {
+            "name": "dade_mvtec_test.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dade_mvtec_test.py",
+            "console": "integratedTerminal",
+            // "env":{"CUDA_VISIBLE_DEVICES":"0"},
+            // "args": [
+            //     "--dataset=mvtec",
+            //     "--k-shot", "1",
+            //     "--class_name", "carpet"
+            // ]
+        },
+        {
+            "name": "z-mean-std.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/z-mena-std.py",
+            "console": "integratedTerminal",
+            // "env":{"CUDA_VISIBLE_DEVICES":"0"},
+            // "args": [
+            //     "--dataset=mvtec",
+            //     "--k-shot", "1",
+            //     "--class_name", "carpet"
+            // ]
+        },        
+        {
+            "name": "dade_mvtec_test_seed42.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dade_mvtec_test_seed42.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--shots", "1",
+            ]
+        },
+        {
+            "name": "dade_mvtec_test1.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dade_mvtec_test1.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--shots", "4",
+            ]
+        },
+        {
+            "name": "dade_mvtec_test2.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dade_mvtec_test2.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--shots", "4",
+            ]
+        },               
+        {
+            "name": "dade_visa_test.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dade_visa_test.py",
+            "console": "integratedTerminal",
+            // "env":{"CUDA_VISIBLE_DEVICES":"0"},
+            // "args": [
+            //     "--dataset=mvtec",
+            //     "--k-shot", "1",
+            //     "--class_name", "carpet"
+            // ]
+        },
+        {
+            "name": "flops_params_fps.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/flops_params_fps.py",
+            "console": "integratedTerminal",
+            // "env":{"CUDA_VISIBLE_DEVICES":"0"},
+            // "args": [
+            //     "--dataset=mvtec",
+            //     "--k-shot", "1",
+            //     "--class_name", "carpet"
+            // ]
+        }  
+    ]
+}

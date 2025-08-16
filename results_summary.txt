@@ -1,0 +1,232 @@
+-----------------------------------------------------------------------------------------------------
+MVTecAD  1-shot Mean and std of random seed: 114514, 1, 2, 3407, 3 
+
+Class: bottle    I-Auroc: 97.3±0.3    I-AP: 99.3±0.1    P-AUROC: 96.6±0.0    P-AUPRO: 93.3±0.1
+Class: cable    I-Auroc: 93.1±0.7    I-AP: 96.5±0.3    P-AUROC: 93.4±0.4    P-AUPRO: 85.4±1.1
+Class: capsule    I-Auroc: 95.4±1.8    I-AP: 99.0±0.4    P-AUROC: 97.5±0.2    P-AUPRO: 96.2±0.2
+Class: hazelnut    I-Auroc: 99.7±0.4    I-AP: 99.8±0.2    P-AUROC: 99.3±0.1    P-AUPRO: 96.3±1.0
+Class: screw    I-Auroc: 84.4±7.1    I-AP: 94.2±2.9    P-AUROC: 98.5±0.5    P-AUPRO: 94.2±1.5
+Class: metal_nut    I-Auroc: 97.2±1.0    I-AP: 99.4±0.2    P-AUROC: 90.4±0.6    P-AUPRO: 86.5±0.8
+Class: pill    I-Auroc: 98.0±0.2    I-AP: 99.7±0.0    P-AUROC: 91.6±0.4    P-AUPRO: 95.4±0.3
+Class: toothbrush    I-Auroc: 98.8±0.8    I-AP: 99.6±0.3    P-AUROC: 99.0±0.3    P-AUPRO: 95.6±0.3
+Class: transistor    I-Auroc: 98.8±0.7    I-AP: 98.5±0.5    P-AUROC: 86.7±3.2    P-AUPRO: 73.5±2.6
+Class: zipper    I-Auroc: 99.4±0.6    I-AP: 99.8±0.2    P-AUROC: 97.4±0.2    P-AUPRO: 93.1±0.8
+Class: carpet    I-Auroc: 99.9±0.2    I-AP: 100.0±0.1    P-AUROC: 99.4±0.1    P-AUPRO: 97.7±0.4
+Class: grid    I-Auroc: 99.3±0.4    I-AP: 99.8±0.1    P-AUROC: 99.4±0.1    P-AUPRO: 97.6±0.4
+Class: leather    I-Auroc: 100.0±0.0    I-AP: 100.0±0.0    P-AUROC: 99.1±0.0    P-AUPRO: 97.1±0.6
+Class: tile    I-Auroc: 99.9±0.1    I-AP: 100.0±0.0    P-AUROC: 97.6±0.1    P-AUPRO: 91.1±0.4
+Class: wood    I-Auroc: 99.1±0.4    I-AP: 99.7±0.1    P-AUROC: 96.8±0.4    P-AUPRO: 94.2±0.5
+Class: Mean    I-Auroc: 97.4±0.4    I-AP: 99.0±0.2    P-AUROC: 96.2±0.2    P-AUPRO: 92.5±0.3
+
+
+
+-----------------------------------------------------------------------------------------------------
+MVTecAD  2-shot Mean and std of random seed: 114514, 1, 2, 3407, 3 
+
+Class: bottle    I-Auroc: 98.7±0.9    I-AP: 99.6±0.2    P-AUROC: 97.2±0.1    P-AUPRO: 94.3±0.2
+Class: cable    I-Auroc: 94.7±0.7    I-AP: 97.3±0.3    P-AUROC: 94.0±0.5    P-AUPRO: 86.9±0.7
+Class: capsule    I-Auroc: 95.4±1.8    I-AP: 99.0±0.4    P-AUROC: 97.7±0.2    P-AUPRO: 96.7±0.2
+Class: hazelnut    I-Auroc: 99.9±0.1    I-AP: 100.0±0.0    P-AUROC: 99.3±0.1    P-AUPRO: 96.7±0.4
+Class: screw    I-Auroc: 88.9±4.8    I-AP: 96.2±1.8    P-AUROC: 98.8±0.4    P-AUPRO: 95.6±1.5
+Class: metal_nut    I-Auroc: 99.2±0.3    I-AP: 99.8±0.1    P-AUROC: 92.9±0.8    P-AUPRO: 89.7±0.8
+Class: pill    I-Auroc: 98.3±0.2    I-AP: 99.7±0.0    P-AUROC: 92.1±0.3    P-AUPRO: 95.6±0.1
+Class: toothbrush    I-Auroc: 98.9±0.7    I-AP: 99.6±0.3    P-AUROC: 99.1±0.3    P-AUPRO: 96.1±0.4
+Class: transistor    I-Auroc: 99.4±0.3    I-AP: 99.2±0.5    P-AUROC: 88.4±1.4    P-AUPRO: 75.4±1.5
+Class: zipper    I-Auroc: 99.4±0.9    I-AP: 99.8±0.3    P-AUROC: 97.6±0.1    P-AUPRO: 93.6±0.4
+Class: carpet    I-Auroc: 99.9±0.1    I-AP: 100.0±0.0    P-AUROC: 99.4±0.0    P-AUPRO: 97.7±0.3
+Class: grid    I-Auroc: 99.5±0.2    I-AP: 99.8±0.1    P-AUROC: 99.4±0.0    P-AUPRO: 97.7±0.1
+Class: leather    I-Auroc: 100.0±0.0    I-AP: 100.0±0.0    P-AUROC: 99.1±0.1    P-AUPRO: 97.0±0.4
+Class: tile    I-Auroc: 99.9±0.1    I-AP: 100.0±0.0    P-AUROC: 97.6±0.1    P-AUPRO: 90.5±0.4
+Class: wood    I-Auroc: 99.2±0.3    I-AP: 99.7±0.1    P-AUROC: 97.1±0.5    P-AUPRO: 94.7±0.2
+Class: Mean    I-Auroc: 98.1±0.3    I-AP: 99.3±0.1    P-AUROC: 96.6±0.1    P-AUPRO: 93.2±0.2
+
+
+
+-----------------------------------------------------------------------------------------------------
+MVTecAD  4-shot Mean and std of random seed: 114514, 1, 2, 3407, 3 
+
+Class: bottle    I-Auroc: 99.3±0.8    I-AP: 99.8±0.2    P-AUROC: 97.5±0.1    P-AUPRO: 94.6±0.2
+Class: cable    I-Auroc: 94.8±1.5    I-AP: 97.4±0.6    P-AUROC: 94.2±0.4    P-AUPRO: 87.5±0.5
+Class: capsule    I-Auroc: 96.9±0.3    I-AP: 99.3±0.0    P-AUROC: 98.0±0.1    P-AUPRO: 97.1±0.1
+Class: hazelnut    I-Auroc: 100.0±0.0    I-AP: 100.0±0.0    P-AUROC: 99.4±0.0    P-AUPRO: 97.1±0.3
+Class: screw    I-Auroc: 92.3±1.0    I-AP: 97.4±0.3    P-AUROC: 99.1±0.1    P-AUPRO: 96.5±0.4
+Class: metal_nut    I-Auroc: 99.4±0.4    I-AP: 99.9±0.1    P-AUROC: 93.6±0.7    P-AUPRO: 90.4±0.7
+Class: pill    I-Auroc: 98.4±0.3    I-AP: 99.7±0.1    P-AUROC: 92.6±0.3    P-AUPRO: 95.8±0.1
+Class: toothbrush    I-Auroc: 99.8±0.2    I-AP: 99.9±0.1    P-AUROC: 99.3±0.1    P-AUPRO: 96.7±0.3
+Class: transistor    I-Auroc: 99.6±0.2    I-AP: 99.4±0.4    P-AUROC: 89.7±0.5    P-AUPRO: 78.3±0.6
+Class: zipper    I-Auroc: 99.9±0.1    I-AP: 100.0±0.0    P-AUROC: 97.8±0.1    P-AUPRO: 94.1±0.3
+Class: carpet    I-Auroc: 99.9±0.1    I-AP: 100.0±0.0    P-AUROC: 99.4±0.0    P-AUPRO: 97.6±0.2
+Class: grid    I-Auroc: 99.5±0.3    I-AP: 99.8±0.1    P-AUROC: 99.4±0.0    P-AUPRO: 97.6±0.1
+Class: leather    I-Auroc: 100.0±0.0    I-AP: 100.0±0.0    P-AUROC: 99.0±0.1    P-AUPRO: 96.7±0.5
+Class: tile    I-Auroc: 100.0±0.0    I-AP: 100.0±0.0    P-AUROC: 97.6±0.0    P-AUPRO: 90.4±0.5
+Class: wood    I-Auroc: 99.1±0.4    I-AP: 99.7±0.2    P-AUROC: 97.3±0.3    P-AUPRO: 94.9±0.4
+Class: Mean    I-Auroc: 98.6±0.2    I-AP: 99.5±0.1    P-AUROC: 96.9±0.1    P-AUPRO: 93.7±0.1
+
+
+-----------------------------------------------------------------------------------------------------
+VisA  1-shot Mean and std of random seed: 2, 111, 0, 3407, 114514
+
+Class: pcb1    I-Auroc: 93.7±0.9    I-AP: 92.7±1.2    P-AUROC: 98.8±0.1    P-AUPRO: 90.1±0.6
+Class: pcb2    I-Auroc: 92.9±2.1    I-AP: 93.4±2.0    P-AUROC: 95.8±0.5    P-AUPRO: 83.1±2.6
+Class: pcb3    I-Auroc: 94.4±2.4    I-AP: 94.8±2.1    P-AUROC: 97.2±0.6    P-AUPRO: 88.3±1.9
+Class: pcb4    I-Auroc: 99.4±0.2    I-AP: 99.4±0.2    P-AUROC: 95.0±1.1    P-AUPRO: 83.2±3.7
+Class: macaroni1    I-Auroc: 93.8±3.3    I-AP: 94.4±2.8    P-AUROC: 99.4±0.2    P-AUPRO: 94.7±0.7
+Class: macaroni2    I-Auroc: 79.8±3.9    I-AP: 74.9±4.8    P-AUROC: 98.8±0.5    P-AUPRO: 94.4±1.5
+Class: capsules    I-Auroc: 96.4±0.5    I-AP: 97.9±0.3    P-AUROC: 97.7±0.4    P-AUPRO: 94.6±1.0
+Class: candle    I-Auroc: 95.2±1.3    I-AP: 96.1±1.0    P-AUROC: 99.0±0.1    P-AUPRO: 94.4±0.6
+Class: cashew    I-Auroc: 96.3±1.0    I-AP: 98.1±0.5    P-AUROC: 98.1±0.3    P-AUPRO: 96.1±0.8
+Class: chewinggum    I-Auroc: 99.5±0.1    I-AP: 99.8±0.0    P-AUROC: 99.4±0.0    P-AUPRO: 94.2±0.2
+Class: pipe_fryum    I-Auroc: 98.3±1.0    I-AP: 99.2±0.5    P-AUROC: 98.6±0.1    P-AUPRO: 96.2±0.4
+Class: fryum    I-Auroc: 97.6±0.3    I-AP: 98.9±0.1    P-AUROC: 93.1±0.7    P-AUPRO: 89.3±1.1
+Class: Mean    I-Auroc: 94.8±1.0    I-AP: 95.0±0.9    P-AUROC: 97.6±0.3    P-AUPRO: 91.5±0.8
+
+
+-----------------------------------------------------------------------------------------------------
+VisA  2-shot Mean and std of random seed: 2, 111, 0, 3407, 114514
+
+Class: pcb1    I-Auroc: 93.3±0.6    I-AP: 92.1±0.9    P-AUROC: 98.8±0.1    P-AUPRO: 90.1±0.5
+Class: pcb2    I-Auroc: 93.3±0.4    I-AP: 93.4±0.9    P-AUROC: 96.0±0.1    P-AUPRO: 83.6±0.8
+Class: pcb3    I-Auroc: 93.5±3.5    I-AP: 94.2±2.6    P-AUROC: 97.4±0.3    P-AUPRO: 89.2±1.5
+Class: pcb4    I-Auroc: 99.2±0.3    I-AP: 99.1±0.3    P-AUROC: 95.2±0.2    P-AUPRO: 83.2±1.3
+Class: macaroni1    I-Auroc: 96.4±0.6    I-AP: 96.7±0.7    P-AUROC: 99.5±0.1    P-AUPRO: 95.2±0.4
+Class: macaroni2    I-Auroc: 80.0±3.1    I-AP: 76.8±6.0    P-AUROC: 98.9±0.3    P-AUPRO: 94.6±1.1
+Class: capsules    I-Auroc: 97.0±1.4    I-AP: 98.3±0.7    P-AUROC: 97.7±0.3    P-AUPRO: 94.7±0.3
+Class: candle    I-Auroc: 96.2±0.7    I-AP: 96.9±0.6    P-AUROC: 99.1±0.0    P-AUPRO: 94.7±0.5
+Class: cashew    I-Auroc: 96.9±0.9    I-AP: 98.4±0.4    P-AUROC: 98.1±0.1    P-AUPRO: 96.6±0.5
+Class: chewinggum    I-Auroc: 99.5±0.1    I-AP: 99.8±0.0    P-AUROC: 99.4±0.0    P-AUPRO: 93.9±0.4
+Class: pipe_fryum    I-Auroc: 98.5±0.7    I-AP: 99.2±0.3    P-AUROC: 98.6±0.1    P-AUPRO: 96.4±0.6
+Class: fryum    I-Auroc: 96.3±2.3    I-AP: 98.3±1.0    P-AUROC: 93.3±0.3    P-AUPRO: 89.3±0.9
+Class: Mean    I-Auroc: 95.0±0.3    I-AP: 95.3±0.6    P-AUROC: 97.7±0.0    P-AUPRO: 91.8±0.3
+
+
+
+-----------------------------------------------------------------------------------------------------
+VisA  4-shot Mean and std of random seed: 2, 111, 0, 3407, 114514
+
+Class: pcb1    I-Auroc: 93.8±0.7    I-AP: 92.9±1.4    P-AUROC: 98.9±0.1    P-AUPRO: 90.9±0.3
+Class: pcb2    I-Auroc: 94.4±0.9    I-AP: 94.7±1.0    P-AUROC: 96.3±0.1    P-AUPRO: 85.0±0.9
+Class: pcb3    I-Auroc: 96.7±0.6    I-AP: 96.9±0.5    P-AUROC: 97.9±0.1    P-AUPRO: 90.3±0.7
+Class: pcb4    I-Auroc: 99.5±0.2    I-AP: 99.4±0.2    P-AUROC: 96.1±0.1    P-AUPRO: 86.2±1.0
+Class: macaroni1    I-Auroc: 96.5±1.8    I-AP: 96.8±1.5    P-AUROC: 99.5±0.0    P-AUPRO: 95.2±0.5
+Class: macaroni2    I-Auroc: 82.1±2.7    I-AP: 78.2±4.3    P-AUROC: 99.2±0.2    P-AUPRO: 95.6±0.8
+Class: capsules    I-Auroc: 97.0±0.8    I-AP: 98.3±0.5    P-AUROC: 98.2±0.3    P-AUPRO: 95.5±0.7
+Class: candle    I-Auroc: 96.6±1.0    I-AP: 97.1±0.8    P-AUROC: 99.2±0.0    P-AUPRO: 94.7±0.7
+Class: cashew    I-Auroc: 96.5±0.4    I-AP: 98.2±0.2    P-AUROC: 98.3±0.1    P-AUPRO: 96.0±0.5
+Class: chewinggum    I-Auroc: 99.6±0.1    I-AP: 99.8±0.0    P-AUROC: 99.4±0.0    P-AUPRO: 94.0±0.3
+Class: pipe_fryum    I-Auroc: 99.0±0.5    I-AP: 99.5±0.2    P-AUROC: 98.7±0.0    P-AUPRO: 96.3±0.4
+Class: fryum    I-Auroc: 97.3±1.6    I-AP: 98.8±0.7    P-AUROC: 93.7±0.2    P-AUPRO: 89.9±0.5
+Class: Mean    I-Auroc: 95.7±0.3    I-AP: 95.9±0.3    P-AUROC: 98.0±0.0    P-AUPRO: 92.5±0.2
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+Real-IAD  1-shot Mean and std of random seed: 3407, 114514, 42, 111, 1
+
+Class: audiojack    I-Auroc: 56.3±3.1    I-AP: 41.3±5.2    P-AUROC: 94.7±0.5    P-AUPRO: 77.5±1.4
+Class: bottle_cap    I-Auroc: 75.8±0.8    I-AP: 62.6±1.0    P-AUROC: 98.4±0.2    P-AUPRO: 92.2±0.8
+Class: button_battery    I-Auroc: 77.8±2.4    I-AP: 83.7±1.6    P-AUROC: 96.2±0.4    P-AUPRO: 85.8±0.9
+Class: end_cap    I-Auroc: 65.9±1.1    I-AP: 73.4±1.1    P-AUROC: 96.9±0.2    P-AUPRO: 90.9±0.5
+Class: eraser    I-Auroc: 86.8±1.8    I-AP: 83.5±2.3    P-AUROC: 99.5±0.1    P-AUPRO: 97.7±0.1
+Class: fire_hood    I-Auroc: 72.8±2.1    I-AP: 61.0±3.3    P-AUROC: 97.7±0.4    P-AUPRO: 85.1±2.9
+Class: mint    I-Auroc: 69.5±2.5    I-AP: 68.8±2.3    P-AUROC: 94.4±0.5    P-AUPRO: 72.3±5.8
+Class: mounts    I-Auroc: 64.2±3.4    I-AP: 55.6±4.0    P-AUROC: 96.6±0.7    P-AUPRO: 87.6±5.2
+Class: pcb    I-Auroc: 61.9±0.9    I-AP: 70.5±1.4    P-AUROC: 95.8±0.1    P-AUPRO: 84.1±0.4
+Class: phone_battery    I-Auroc: 77.1±0.9    I-AP: 73.7±1.5    P-AUROC: 98.3±0.1    P-AUPRO: 90.5±0.9
+Class: plastic_nut    I-Auroc: 60.9±1.2    I-AP: 43.5±1.1    P-AUROC: 95.3±0.6    P-AUPRO: 80.2±3.8
+Class: plastic_plug    I-Auroc: 68.5±2.5    I-AP: 51.7±2.5    P-AUROC: 96.4±0.3    P-AUPRO: 87.4±1.2
+Class: porcelain_doll    I-Auroc: 73.1±2.0    I-AP: 62.7±3.0    P-AUROC: 96.7±0.5    P-AUPRO: 86.7±2.4
+Class: regulator    I-Auroc: 48.4±2.3    I-AP: 25.0±0.9    P-AUROC: 91.7±0.4    P-AUPRO: 67.2±2.0
+Class: rolled_strip_base    I-Auroc: 87.9±1.7    I-AP: 93.8±1.0    P-AUROC: 99.6±0.1    P-AUPRO: 98.1±0.1
+Class: sim_card_set    I-Auroc: 83.7±4.2    I-AP: 87.5±3.6    P-AUROC: 99.2±0.1    P-AUPRO: 94.7±1.0
+Class: switch    I-Auroc: 55.0±3.2    I-AP: 58.9±4.2    P-AUROC: 85.7±1.0    P-AUPRO: 68.0±0.7
+Class: tape    I-Auroc: 92.5±1.6    I-AP: 89.6±2.4    P-AUROC: 99.4±0.1    P-AUPRO: 97.8±0.5
+Class: terminalblock    I-Auroc: 57.3±3.7    I-AP: 56.6±6.2    P-AUROC: 96.9±0.6    P-AUPRO: 88.8±1.6
+Class: toothbrush    I-Auroc: 59.7±1.2    I-AP: 65.5±0.9    P-AUROC: 82.9±2.1    P-AUPRO: 67.1±0.8
+Class: toy    I-Auroc: 65.4±8.9    I-AP: 70.8±10.0    P-AUROC: 90.1±1.8    P-AUPRO: 84.0±2.8
+Class: toy_brick    I-Auroc: 68.6±2.1    I-AP: 61.6±3.7    P-AUROC: 94.8±0.3    P-AUPRO: 72.5±3.5
+Class: transistor1    I-Auroc: 62.4±5.5    I-AP: 70.6±4.6    P-AUROC: 95.5±0.8    P-AUPRO: 83.5±1.6
+Class: u_block    I-Auroc: 70.9±1.9    I-AP: 54.6±2.0    P-AUROC: 97.7±0.7    P-AUPRO: 87.4±3.4
+Class: usb    I-Auroc: 58.9±0.4    I-AP: 50.9±1.0    P-AUROC: 93.1±0.2    P-AUPRO: 76.8±0.6
+Class: usb_adaptor    I-Auroc: 56.8±1.5    I-AP: 44.4±2.5    P-AUROC: 94.1±0.6    P-AUPRO: 75.3±1.9
+Class: vcpill    I-Auroc: 88.2±2.3    I-AP: 87.3±2.3    P-AUROC: 98.4±0.3    P-AUPRO: 92.4±1.5
+Class: wooden_beads    I-Auroc: 84.7±0.7    I-AP: 83.6±0.9    P-AUROC: 98.5±0.2    P-AUPRO: 89.7±1.6
+Class: woodstick    I-Auroc: 81.8±0.9    I-AP: 71.7±1.8    P-AUROC: 98.3±0.2    P-AUPRO: 90.8±0.7
+Class: zipper    I-Auroc: 92.3±1.7    I-AP: 95.9±1.0    P-AUROC: 97.6±0.4    P-AUPRO: 93.5±0.8
+Class: Mean    I-Auroc: 70.8±1.2    I-AP: 66.7±1.5    P-AUROC: 95.7±0.3    P-AUPRO: 84.9±0.7
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+Real-IAD  2-shot Mean and std of random seed: 3407, 114514, 42, 111, 1
+
+Class: audiojack    I-Auroc: 59.8±2.3    I-AP: 40.8±1.2    P-AUROC: 95.7±0.8    P-AUPRO: 81.0±3.1
+Class: bottle_cap    I-Auroc: 79.4±4.5    I-AP: 68.8±8.6    P-AUROC: 98.7±0.5    P-AUPRO: 93.4±2.4
+Class: button_battery    I-Auroc: 79.2±1.8    I-AP: 84.5±1.0    P-AUROC: 96.6±0.2    P-AUPRO: 86.6±1.6
+Class: end_cap    I-Auroc: 72.0±3.5    I-AP: 77.3±3.6    P-AUROC: 97.3±0.2    P-AUPRO: 92.1±0.6
+Class: eraser    I-Auroc: 87.9±0.6    I-AP: 84.3±1.7    P-AUROC: 99.6±0.0    P-AUPRO: 97.9±0.3
+Class: fire_hood    I-Auroc: 75.6±3.3    I-AP: 65.1±5.2    P-AUROC: 98.2±0.4    P-AUPRO: 87.1±2.8
+Class: mint    I-Auroc: 69.3±0.8    I-AP: 68.7±1.5    P-AUROC: 94.7±1.2    P-AUPRO: 71.8±3.9
+Class: mounts    I-Auroc: 67.3±6.5    I-AP: 58.8±6.4    P-AUROC: 96.9±1.0    P-AUPRO: 88.5±5.3
+Class: pcb    I-Auroc: 68.6±4.0    I-AP: 77.5±4.9    P-AUROC: 96.7±0.6    P-AUPRO: 86.7±2.0
+Class: phone_battery    I-Auroc: 79.8±2.4    I-AP: 75.9±1.8    P-AUROC: 98.6±0.2    P-AUPRO: 92.0±1.1
+Class: plastic_nut    I-Auroc: 64.6±5.5    I-AP: 47.1±9.4    P-AUROC: 95.7±1.6    P-AUPRO: 81.7±7.2
+Class: plastic_plug    I-Auroc: 74.2±6.6    I-AP: 58.2±11.9    P-AUROC: 96.3±1.5    P-AUPRO: 86.1±6.0
+Class: porcelain_doll    I-Auroc: 74.1±2.3    I-AP: 63.0±3.5    P-AUROC: 97.2±0.8    P-AUPRO: 88.2±3.2
+Class: regulator    I-Auroc: 54.5±7.3    I-AP: 30.0±7.5    P-AUROC: 93.0±2.5    P-AUPRO: 71.2±9.7
+Class: rolled_strip_base    I-Auroc: 88.0±1.8    I-AP: 93.9±1.1    P-AUROC: 99.6±0.0    P-AUPRO: 98.3±0.1
+Class: sim_card_set    I-Auroc: 86.9±4.7    I-AP: 89.9±3.8    P-AUROC: 99.2±0.1    P-AUPRO: 95.0±0.7
+Class: switch    I-Auroc: 64.2±6.4    I-AP: 67.6±6.7    P-AUROC: 89.5±2.4    P-AUPRO: 74.4±4.9
+Class: tape    I-Auroc: 93.3±1.1    I-AP: 90.4±1.2    P-AUROC: 99.4±0.1    P-AUPRO: 97.8±0.3
+Class: terminalblock    I-Auroc: 64.0±4.6    I-AP: 61.1±4.4    P-AUROC: 97.7±0.5    P-AUPRO: 91.7±1.4
+Class: toothbrush    I-Auroc: 64.9±3.7    I-AP: 69.3±3.0    P-AUROC: 87.2±3.1    P-AUPRO: 72.2±3.7
+Class: toy    I-Auroc: 77.4±3.5    I-AP: 82.6±2.9    P-AUROC: 91.8±1.1    P-AUPRO: 86.8±1.1
+Class: toy_brick    I-Auroc: 71.3±2.2    I-AP: 65.3±3.4    P-AUROC: 95.5±0.4    P-AUPRO: 75.1±3.3
+Class: transistor1    I-Auroc: 77.8±10.6    I-AP: 82.8±8.7    P-AUROC: 97.2±1.2    P-AUPRO: 89.2±3.8
+Class: u_block    I-Auroc: 71.4±3.4    I-AP: 56.5±5.7    P-AUROC: 97.4±0.8    P-AUPRO: 86.0±3.6
+Class: usb    I-Auroc: 64.2±4.4    I-AP: 56.4±7.1    P-AUROC: 94.7±1.0    P-AUPRO: 80.9±3.5
+Class: usb_adaptor    I-Auroc: 59.2±3.1    I-AP: 45.9±3.0    P-AUROC: 94.7±1.4    P-AUPRO: 77.1±5.2
+Class: vcpill    I-Auroc: 90.0±1.4    I-AP: 89.1±1.7    P-AUROC: 98.5±0.1    P-AUPRO: 92.6±0.5
+Class: wooden_beads    I-Auroc: 86.2±0.8    I-AP: 85.4±0.9    P-AUROC: 98.7±0.2    P-AUPRO: 88.9±2.6
+Class: woodstick    I-Auroc: 81.0±2.1    I-AP: 70.3±2.3    P-AUROC: 98.4±0.4    P-AUPRO: 89.9±2.4
+Class: zipper    I-Auroc: 94.1±2.3    I-AP: 96.9±1.3    P-AUROC: 98.0±0.6    P-AUPRO: 94.6±1.8
+Class: Mean    I-Auroc: 74.7±1.2    I-AP: 70.1±1.7    P-AUROC: 96.4±0.3    P-AUPRO: 86.5±1.1
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+Real-IAD  4-shot Mean and std of random seed: 3407, 114514, 42, 111, 1
+
+Class: audiojack    I-Auroc: 68.6±5.3    I-AP: 51.0±9.7    P-AUROC: 97.2±0.7    P-AUPRO: 86.7±2.9
+Class: bottle_cap    I-Auroc: 83.0±4.4    I-AP: 76.0±9.1    P-AUROC: 99.1±0.6    P-AUPRO: 95.4±3.0
+Class: button_battery    I-Auroc: 81.2±2.9    I-AP: 86.0±2.3    P-AUROC: 97.2±0.5    P-AUPRO: 87.8±3.0
+Class: end_cap    I-Auroc: 76.9±2.7    I-AP: 80.7±3.3    P-AUROC: 97.8±0.4    P-AUPRO: 93.4±1.0
+Class: eraser    I-Auroc: 89.7±1.3    I-AP: 86.2±1.5    P-AUROC: 99.7±0.0    P-AUPRO: 98.2±0.2
+Class: fire_hood    I-Auroc: 76.6±3.1    I-AP: 67.1±4.8    P-AUROC: 98.4±0.5    P-AUPRO: 87.7±3.9
+Class: mint    I-Auroc: 71.0±1.6    I-AP: 69.9±3.0    P-AUROC: 94.6±1.5    P-AUPRO: 70.0±5.4
+Class: mounts    I-Auroc: 80.4±1.0    I-AP: 71.1±1.4    P-AUROC: 98.4±0.4    P-AUPRO: 92.4±3.1
+Class: pcb    I-Auroc: 76.5±5.6    I-AP: 84.0±5.4    P-AUROC: 97.6±0.6    P-AUPRO: 89.7±2.2
+Class: phone_battery    I-Auroc: 82.3±3.9    I-AP: 77.5±3.4    P-AUROC: 98.8±0.4    P-AUPRO: 93.3±2.5
+Class: plastic_nut    I-Auroc: 72.0±9.8    I-AP: 55.7±14.9    P-AUROC: 96.9±2.0    P-AUPRO: 86.6±8.7
+Class: plastic_plug    I-Auroc: 80.5±6.7    I-AP: 69.0±13.8    P-AUROC: 97.5±2.0    P-AUPRO: 89.9±8.4
+Class: porcelain_doll    I-Auroc: 77.6±4.9    I-AP: 66.4±5.3    P-AUROC: 97.8±1.0    P-AUPRO: 90.6±4.6
+Class: regulator    I-Auroc: 58.6±7.2    I-AP: 36.1±11.1    P-AUROC: 94.4±3.3    P-AUPRO: 76.3±13.0
+Class: rolled_strip_base    I-Auroc: 91.9±1.7    I-AP: 95.5±1.0    P-AUROC: 99.7±0.0    P-AUPRO: 98.7±0.1
+Class: sim_card_set    I-Auroc: 90.0±5.0    I-AP: 92.2±3.8    P-AUROC: 99.3±0.1    P-AUPRO: 95.3±1.0
+Class: switch    I-Auroc: 74.2±4.3    I-AP: 74.9±4.3    P-AUROC: 93.5±1.1    P-AUPRO: 83.8±3.4
+Class: tape    I-Auroc: 94.2±1.0    I-AP: 91.5±1.5    P-AUROC: 99.5±0.1    P-AUPRO: 98.1±0.4
+Class: terminalblock    I-Auroc: 66.9±8.2    I-AP: 62.0±6.4    P-AUROC: 97.7±0.8    P-AUPRO: 91.8±2.4
+Class: toothbrush    I-Auroc: 74.1±7.8    I-AP: 77.7±7.8    P-AUROC: 91.7±2.3    P-AUPRO: 79.8±4.8
+Class: toy    I-Auroc: 78.9±2.0    I-AP: 84.0±1.8    P-AUROC: 92.4±0.8    P-AUPRO: 87.5±1.0
+Class: toy_brick    I-Auroc: 72.3±1.6    I-AP: 66.4±2.5    P-AUROC: 95.7±0.3    P-AUPRO: 75.4±2.5
+Class: transistor1    I-Auroc: 84.1±11.8    I-AP: 86.8±9.5    P-AUROC: 97.8±1.5    P-AUPRO: 91.7±4.9
+Class: u_block    I-Auroc: 74.8±4.0    I-AP: 60.0±5.8    P-AUROC: 97.8±0.9    P-AUPRO: 87.8±4.9
+Class: usb    I-Auroc: 73.4±9.2    I-AP: 65.8±13.1    P-AUROC: 96.2±1.5    P-AUPRO: 85.8±5.6
+Class: usb_adaptor    I-Auroc: 67.2±3.9    I-AP: 59.0±6.0    P-AUROC: 97.0±1.1    P-AUPRO: 84.2±5.0
+Class: vcpill    I-Auroc: 93.6±2.6    I-AP: 92.8±2.9    P-AUROC: 98.9±0.3    P-AUPRO: 94.3±1.7
+Class: wooden_beads    I-Auroc: 86.0±0.5    I-AP: 85.2±0.6    P-AUROC: 98.8±0.1    P-AUPRO: 89.3±1.4
+Class: woodstick    I-Auroc: 81.8±2.6    I-AP: 71.6±3.5    P-AUROC: 98.5±0.3    P-AUPRO: 90.2±2.4
+Class: zipper    I-Auroc: 95.9±2.1    I-AP: 97.8±1.1    P-AUROC: 98.4±0.4    P-AUPRO: 95.7±1.5
+Class: Mean    I-Auroc: 79.1±2.1    I-AP: 74.7±2.3    P-AUROC: 97.3±0.3    P-AUPRO: 88.9±1.4
